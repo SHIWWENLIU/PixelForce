@@ -70,7 +70,7 @@ export default function PropertyPage() {
             <div className="flex-1 text-lg font-semibold pr-8">Entire Bromo mountain view Cabin in Surabaya</div>
             
             <div className='flex-shrink-0 p-2'>
-            <Image className='rounded-full' alt='heart' src='/./Icons/heart.svg' width={20} height={20}/>
+            <Image className='rounded-full' alt='heart' src='/Icons/heart.svg' width={20} height={20}/>
             </div>
                
           </div>

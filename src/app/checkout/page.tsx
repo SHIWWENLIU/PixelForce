@@ -20,7 +20,7 @@ export default function RentPage() {
             <span className="text-xl font-semibold">Rent booking</span>
          </div>  
          <Card
-        imageUrl="/./images/saved/save1.png"
+        imageUrl="/images/saved/save1.png"
         title="Entire Bromo mountain view Cabin in Surabaya"
         location="Malang, Probolinggo"
         rating={4.8}

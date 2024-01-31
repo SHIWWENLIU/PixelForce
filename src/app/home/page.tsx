@@ -20,7 +20,7 @@ export default function HomePage() {
         <SwitchBar activeTab={activeTab} onTabChange={handleTabChange}/>
         <div className="text-lg font-semibold mb-2 pl-6">Near your location</div>
         <Card
-        imageUrl="/./images/saved/save1.png"
+        imageUrl="/images/saved/save1.png"
         title="Entire Bromo mountain view Cabin in Surabaya"
         location="Malang, Probolinggo"
         rating={4.8}
@@ -32,7 +32,7 @@ export default function HomePage() {
             title='Learn more about Surabaya’s Ecosystem in 2022'
             date='Saturday, November 10, 2021'
             description='Surabaya as the second largest city in Indonesia has very high dynamics of land '
-            imageUrl='/./images/article/article1.png' 
+            imageUrl='/images/article/article1.png' 
             />
         </div>
         <Footer/>

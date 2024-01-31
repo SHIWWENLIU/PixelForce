@@ -18,7 +18,7 @@ export default function page() {
 
   return (
     <div>
-      <Person username="Lucy Bond" email='lucybond08@gmail.com' avatarSrc='/./images/image.png'/>
+      <Person username="Lucy Bond" email='lucybond08@gmail.com' avatarSrc='/images/image.png'/>
          <div className='border-b-2 mb-6 pb-2'>
           {menuItems.map((item)=>(
             <MenuItem key={item.name} name={item.name} iconSrc={item.icon}/>
