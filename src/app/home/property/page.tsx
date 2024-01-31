@@ -59,7 +59,7 @@ export default function PropertyPage() {
             </button>
             <div className="w-full h-48 relative">
                 <Image
-                src="/./images/saved/save1.png"
+                src="/images/saved/save1.png"
                 layout="fill"
                 className="object-center"
                 alt="Image"

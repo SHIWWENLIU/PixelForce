@@ -10,7 +10,7 @@ export default function page() {
       <SearchBar placeholder='Search saved properties' icon='./Icons/search.svg'/> 
       
       <Card
-        imageUrl="/./images/saved/save1.png"
+        imageUrl="/images/saved/save1.png"
         title="Entire Bromo mountain view Cabin in Surabaya"
         location="Malang, Probolinggo"
         rating={4.8}
